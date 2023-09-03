@@ -1,6 +1,6 @@
-#Greetings, and welcome to my GitHub profile! 👋
+# Greetings, and welcome to my GitHub profile! 👋
 
-<h3>👨‍💼 About Me</h3>
+### 👨‍💼 About Me
 
 🎓  My name is <b>Troy Butler</b>, and I am a senior undergraduate <b>Computer Science</b> student at [Clemson University](https://www.clemson.edu/) of South Carolina.
 I am enrolled in Clemson's <b>Bachelor-to-Graduate</b> program and plan to earn a <b>Master's Degree in Computer Science</b>.
