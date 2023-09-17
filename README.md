@@ -11,4 +11,4 @@ ways to solve problems.
 
 🔍  Please feel free to explore my public repositories! 
 
-:lock: I also have a private repository of my Clemson University Computer Science lab assignment and project submissions. Access to this repository will be granted to interested recruiters upon request.
+:lock: I also have a private repository of my Clemson University Computer Science lab assignment and project submissions. Access to this repository will be granted upon request.
