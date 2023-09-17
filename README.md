@@ -9,4 +9,6 @@ I am enrolled in Clemson's <b>Bachelor-to-Graduate</b> program and plan to earn 
 💾  I am experienced in <b>C</b>, <b>C++</b>, and <b>Java</b>, and I am currently in the process of learning both <b>JavaScript</b> and <b>Python</b>. I enjoy learning new languages and finding creative
 ways to solve problems.
 
-🔍  Please feel free to explore my public repositories! Access to private repositories will be granted upon request.
+🔍  Please feel free to explore my public repositories! 
+
+:lock: I also have a private repository of my Clemson University Computer Science lab assignment and project submissions. Access to this repository will be granted to interested recruiters upon request.
