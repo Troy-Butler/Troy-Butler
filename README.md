@@ -1,4 +1,4 @@
-## Greetings, and welcome to my GitHub profile!
+<h2>Greetings, and welcome to my GitHub profile!</h2>
 
 
 ### About Me
