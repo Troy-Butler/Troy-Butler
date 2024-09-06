@@ -1,4 +1,4 @@
-## Greetings, and welcome to my GitHub profile!
+## Troy Butler
 
 
 ### About Me
